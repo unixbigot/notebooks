@@ -13,7 +13,7 @@ The short form is the calculations in this repository, which are
 worksheets that let you enter your basic numbers (size of battery, and
 how much power you need), and deliver answers.
 
-  * [How long can I run at a nominated load"](https://github.com/unixbigot/notebooks/blob/main/Battery%20Capability%20Calculator.ipynb)
+  * [How long can I run at a nominated load?](https://github.com/unixbigot/notebooks/blob/main/Battery%20Lifetime%20Calculator.ipynb)
   
   * [How many times can I do a nominated job?](https://github.com/unixbigot/notebooks/blob/main/Battery%20Capability%20Calculator.ipynb)
 
