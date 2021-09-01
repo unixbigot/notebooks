@@ -1,10 +1,17 @@
 # Some Jupyter Notebooks for designing technology
 
-Batteries are hard.   There are a lot of fudge factors.  
+## Batteries 
 
-I gave a presentation once at [lca](linux.conf.au) about battery power.   Watch the video for the long form.
+Batteries are hard.   There are a lot of fudge factors and you often
+have to wrestle with unit coversions.  Yes, I know /you/ know there
+are 525600 minutes in a year, and why.
 
-The short form is the calculations in this repository, which are worksheets that let you enter your basic
-numbers (size of battery, and how much power you need), and deliver answers.
+I gave a presentation once at [lca](linux.conf.au) about battery
+power.   Watch the video below for the long form.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bu6IaOrPZKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+The short form is the calculations in this repository, which are
+worksheets that let you enter your basic numbers (size of battery, and
+how much power you need), and deliver answers.
+
+[![Watch the video presentation](https://img.youtube.com/vi/bu6IaOrPZKU/0.jpg)](http://www.youtube.com/watch?v=bu6IaOrPZKU)
+
